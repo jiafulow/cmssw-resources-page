@@ -70,6 +70,8 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 
 - [Scikit-HEP](https://scikit-hep.org)
 - [ROOT TMVA](https://root.cern.ch/tmva)
+- [CERN Machine Learning for Particle Physics (mPP)](https://twiki.cern.ch/twiki/bin/view/Main/MPP)
+- [CERN Inter-experimental Machine Learning (IML)](https://iml.web.cern.ch/)
 
 
 ## CMSSW for Beginners
@@ -94,7 +96,7 @@ For an introduction to the CMS software, computing, and analysis tools, please c
   - Check the [WorkBook page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookCMSSWFramework).
   - Follow the [CMSDAS pre-exercise](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolPreExerciseFirstSet).
 
-- Getting the Grid user account
+- Getting started with the Grid
   - Check the [WorkBook page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid).
 
 - Looking for more tutorials/exercises?
