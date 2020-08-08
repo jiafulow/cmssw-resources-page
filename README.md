@@ -16,6 +16,7 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 - [Web Monitoring Tools](#web-monitoring-tools)
 - [Grid Computing Tools](#grid-computing-tools)
 - [Machine Learning](#machine-learning)
+- [UF-Specific Resources](#uf-specific-resources)
 - [CMSSW for Beginners](#cmssw-for-beginners)
 
 
@@ -73,6 +74,11 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 - [CERN Machine Learning for Particle Physics (mPP)](https://twiki.cern.ch/twiki/bin/view/Main/MPP)
 - [CERN Inter-experimental Machine Learning (IML)](https://iml.web.cern.ch/)
 
+## UF-Specific Resources
+
+- [UFTier2](http://tier2.ihepa.ufl.edu/)
+- [HiPerGator wiki](https://help.rc.ufl.edu/doc/Getting_Started)
+- [uf-analysis e-group](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=uf-analysis)
 
 ## CMSSW for Beginners
 
@@ -99,10 +105,14 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 - Getting started with the Grid
   - Check the [WorkBook page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid).
 
-- Looking for more tutorials/exercises?
+- Looking for schools/courses/tutorials?
   - Check the [CMS Data Analysis School (CMSDAS)](https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool).
   - Check the [CMS LPC Hands-on Advanced Tutorial Sessions (HATS)](https://lpc.fnal.gov/programs/schools-workshops/hats.shtml).
   - Check the [CMS Induction Course](https://indico.cern.ch/event/914784/timetable/).
+  - Check the [CERN-Fermilab Hadron Collider Physics Summer Schools](http://hcpss.web.cern.ch/).
+  - Check online programming courses:
+    - [Coursera](https://www.coursera.org/courses)
+    - [Udacity](https://www.udacity.com/)
 
 
 ## Acknowledgement
