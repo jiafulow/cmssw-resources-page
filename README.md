@@ -30,7 +30,7 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 - [CMSSW Cross-Reference (LXR)](https://cmssdt.cern.ch/lxr)
 - [CMSSW Cross-Reference (DXR)](https://cmssdt.cern.ch/dxr)
 - Other stuff:
-  - [CMS Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWB)
+  - [CMS Online WorkBook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWB)
   - [L1 Trigger SW Guide](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1Trigger)
   - [HLT SW Guide](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT)
   - [Data and Workload Management (DMWM)](https://twiki.cern.ch/twiki/bin/view/CMS/DMWM)
@@ -45,6 +45,7 @@ For an introduction to the CMS software, computing, and analysis tools, please c
 - [Physics Experiment Data Export (PhEDEx)](https://cmsweb.cern.ch/phedex)
 - [Rucio](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Rucio)
 - [File Transfer Service (FTS)](https://fts3-cms.cern.ch/)
+- [Data Management Clients](https://dmc-docs.web.cern.ch/)
 
 ## Monte Carlo Production Tools
 
@@ -110,11 +111,13 @@ For an introduction to the CMS software, computing, and analysis tools, please c
   - Check the [CMS LPC Hands-on Advanced Tutorial Sessions (HATS)](https://lpc.fnal.gov/programs/schools-workshops/hats.shtml).
   - Check the [CMS Induction Course](https://indico.cern.ch/event/914784/timetable/).
   - Check the [CERN-Fermilab Hadron Collider Physics Summer Schools](http://hcpss.web.cern.ch/).
+  - Check the [CERN Academic Training Lectures](https://indico.cern.ch/category/72/).
   - Check online programming courses:
     - [Coursera](https://www.coursera.org/courses)
     - [Udacity](https://www.udacity.com/)
+    - [edX](https://www.edx.org/)
 
 
 ## Acknowledgement
 
-This page was inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources) repo.
+This page was originally inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources) repo.
